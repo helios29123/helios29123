@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 Hi, My name is Le Duy, I am now a student of FPT Polytechnic Ho Chi Minh city, VietNam. 
 My major is Web Development.
 
-🔭 I’m currently looking for **Internship opportunities**. 
-🌱 I’m currently learning: **JavaScript, PHP, VueJS, and NodeJS**.
-👯 I’m looking to collaborate on **Web Development projects**.
-📫 How to reach me: **freak8927@gmail.com**.
+🔭 I’m currently looking for **Internship opportunities**.   
+🌱 I’m currently learning: **JavaScript, PHP, VueJS, and NodeJS**.  
+👯 I’m looking to collaborate on **Web Development projects**.  
+📫 How to reach me: **freak8927@gmail.com**.  
 
 ### 🛠 Languages and Tools
 <p align="left"> 
