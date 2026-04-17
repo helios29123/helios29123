@@ -60,6 +60,16 @@ My major is Web Development.
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40"/> 
   </a>
+
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
+  </a>
+  
+  <a href="https://cachyos.org/" target="_blank">
+    <img src="https://cachyos.org/favicon.png" height="40"/>
+  </a>
+
+  
 </p>
 
 
