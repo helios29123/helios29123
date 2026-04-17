@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**duyle0802/duyle0802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**helios29123/helios29123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 Hi, My name is Le Duy, I am now a student of FPT Polytechnic Ho Chi Minh city, VietNam. 
 My major is Web Development.
 
-🔭 I’m currently looking for **Internship opportunities**.   
-🌱 I’m currently learning: **JavaScript, PHP, VueJS, and NodeJS**.  
+🔭 I’m currently looking for **Intern/Internship opportunities**.   
+🌱 I’m currently learning: **JavaScript, PHP(Laravel/ Yii2), VueJS, and NodeJS**
 👯 I’m looking to collaborate on **Web Development projects**.  
 📫 How to reach me: **freak8927@gmail.com**.  
 
@@ -34,5 +34,5 @@ My major is Web Development.
 
 ### 📊 Github Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=duyle0802&show_icons=true&theme=radical" alt="duyle0802" />
+<img src="https://github-readme-stats.vercel.app/api?username=helios29123&show_icons=true&theme=radical" alt="duyle0802" />
 </p>
