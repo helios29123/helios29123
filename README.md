@@ -33,43 +33,15 @@ My major is Web Development.
 
 ### 🛠 Languages and Tools
 <p> 
-  <a href="https://php.net" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40"/> 
-  </a> 
-
-  <a href="https://laravel.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" height="40"/> 
-  </a> 
-
-  <a href="https://www.yiiframework.com/" target="_blank"> 
-    <img src="https://www.yiiframework.com/image/design/logo/yii3_sign.svg" height="40"/> 
-  </a> 
-
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/> 
-  </a> 
-
-  <a href="https://vuejs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="40"/> 
-  </a> 
-
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/> 
-  </a> 
-
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40"/> 
-  </a>
-
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
-  </a>
-  
-  <a href="https://cachyos.org/" target="_blank">
-    <img src="https://cachyos.org/favicon.png" height="40"/>
-  </a>
-
-  
+  <a href="https://php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40"/></a> 
+  <a href="https://laravel.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="40"/></a> 
+  <a href="https://www.yiiframework.com/"><img src="https://www.yiiframework.com/image/design/logo/yii3_sign.svg" height="40"/></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/></a> 
+  <a href="https://vuejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="40"/></a> 
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/></a> 
+  <a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/></a> 
+  <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40"/></a> 
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40"/></a>
 </p>
 
 
