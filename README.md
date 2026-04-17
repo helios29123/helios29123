@@ -19,7 +19,7 @@ Hi, My name is Le Duy, I am now a student of FPT Polytechnic Ho Chi Minh city, V
 My major is Web Development.
 
 🔭 I’m currently looking for **Intern/Internship opportunities**.   
-🌱 I’m currently learning: **JavaScript, PHP(Laravel/ Yii2), VueJS, and NodeJS**.
+🌱 I’m currently learning: **JavaScript, PHP(Laravel/ Yii2), VueJS, and NodeJS**. <br>
 👯 I’m looking to collaborate on **Web Development projects**.  
 📫 How to reach me: **freak8927@gmail.com**.  
 
