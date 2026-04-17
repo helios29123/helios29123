@@ -23,16 +23,51 @@ My major is Web Development.
 👯 I’m looking to collaborate on **Web Development projects**.  
 📫 How to reach me: **freak8927@gmail.com**.  
 
+### 🧠 Backend Skills
+
+- RESTful API design  
+- Authentication & Authorization (JWT, Session)  
+- MVC Architecture  
+- Database: MySQL  
+- Basic Docker / Linux
+
 ### 🛠 Languages and Tools
 <p> 
-  <a href="https://php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="40"/> </a> 
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="40"/> </a>
+  <a href="https://php.net" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="40"/> 
+  </a> 
+
+  <a href="https://laravel.com" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" height="40"/> 
+  </a> 
+
+  <a href="https://www.yiiframework.com/" target="_blank"> 
+    <img src="https://www.yiiframework.com/image/design/logo/yii3_sign.svg" height="40"/> 
+  </a> 
+
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/> 
+  </a> 
+
+  <a href="https://vuejs.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="40"/> 
+  </a> 
+
+  <a href="https://nodejs.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="40"/> 
+  </a> 
+
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40"/> 
+  </a>
 </p>
+
 
 ### 📊 Github Stats
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=helios29123&show_icons=true&theme=radical" alt="duyle0802" />
+</p>
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=helios29123&theme=radical" />
 </p>
